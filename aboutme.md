@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
+<img src= "/img/food.jpg" width="400" height="YYY"/>
 
-My name is Inigo Montoya. I have the following qualities:
+From a young age the fusion of creativity and logic drew to me math. Now I want to apply my mathematical skills in exciting and novel ways.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I love movies, running, reading, and food.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+---

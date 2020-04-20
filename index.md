@@ -5,9 +5,9 @@ subtitle: Mathematician  turning programmer
 use-site-title: true
 ---
 
-I am currently looking for an exciting new job, so please see my [resume](http://google.com).
+I am graduating soon and looking for a job. Main interests include data science, machine learning, and cryptography. See my [resume](atticus_christensen_cv.pdf)!
 
-I also am finish up my PhD in mathematics. Learn more about my [research](), or about my general [interests]()
+Right now I am finishing up my PhD in mathematics. Learn more about my [research](/research), or about my general [interests]()
 
 
 
